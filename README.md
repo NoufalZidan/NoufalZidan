@@ -22,3 +22,5 @@ Motto: Code. Train. Play. Repeat.
 
 ## 💻 Connect with me
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vannnov_/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noufal-zidan-ivannov-42989821a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![Push-ups](https://img.shields.io/badge/Push--ups-100/day-blue)
