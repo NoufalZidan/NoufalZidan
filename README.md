@@ -1,9 +1,13 @@
 ![Header](image/github-header-banner.png)
 
 ## ✨ About
-👋 Hi, I’m Noufal Zidan Ivannov
+👋 Hello, I’m Noufal Zidan Ivannov, an Informatics student at Universitas Jenderal Soedirman (2025).
+I’m passionate about fullstack development — I started with Python and C++, and now I’m diving deeper into modern web technologies.
 
-I’m an Informatics student at Universitas Jenderal Soedirman, passionate about technology, coding, and continuous learning.
+Outside the screen, I love training calisthenics 🏋️‍♂️ and playing guitar 🎸.
+For me, balance matters: sharpening the mind through coding, strengthening the body through training, and fueling creativity through music.
+
+Motto: Code. Train. Play. Repeat.
 
 ## 💡 Interests & Focus
 
