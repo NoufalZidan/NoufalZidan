@@ -1,16 +1,16 @@
-## Hi there, I'm Noufal Zidan Ivannov👋
+![Header](image/github-header-banner.png)
 
-<!--
-**NoufalZidan/NoufalZidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About
+👋 Hi, I’m Noufal Zidan
 
-Here are some ideas to get you started:
+I’m an Informatics student at Universitas Jenderal Soedirman, passionate about technology, coding, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests & Focus
+
+- 🌱 Exploring Fullstack Development (Frontend + Backend)
+
+- 🤖 Learning AI & Software Engineering
+
+- 🛠️ Practicing clean code & problem-solving through projects
+
+### 🪄 Skills
