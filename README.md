@@ -1,7 +1,7 @@
 ![Header](image/github-header-banner.png)
 
 ## ✨ About
-👋 Hello, I’m Noufal Zidan Ivannov, an Informatics student at Universitas Jenderal Soedirman (2025).
+👋 Hello, I’m Noufal Zidan Ivannov, an Informatics student at Jenderal Soedirman University (2025).
 I’m passionate about fullstack development — I started with Python and C++, and now I’m diving deeper into modern web technologies.
 
 Outside the screen, I love training calisthenics 🏋️‍♂️ and playing guitar 🎸.
