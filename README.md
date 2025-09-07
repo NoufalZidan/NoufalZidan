@@ -1,7 +1,7 @@
 ![Header](image/github-header-banner.png)
 
 ## ✨ About
-👋 Hi, I’m Noufal Zidan
+👋 Hi, I’m Noufal Zidan Ivannov
 
 I’m an Informatics student at Universitas Jenderal Soedirman, passionate about technology, coding, and continuous learning.
 
