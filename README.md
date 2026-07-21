@@ -5,10 +5,10 @@ On the frontend, I am building my skills with React and Next.js, using TypeScrip
 For data and machine learning, I work with Python, TensorFlow, and Scikit-learn, covering both classic machine learning workflows such as decision trees and ensemble methods, and deep learning approaches like transfer learning for image classification.
  
 ## Tech Stack
-Backend: NestJS, Prisma, MySQL, Node.js
-Frontend: Next.js, React, TypeScript
-Data and Machine Learning: Python, TensorFlow, Scikit-learn
-Tools and Environment: Git, Linux, Figma
+- Backend: NestJS, Prisma, MySQL, Node.js
+- Frontend: Next.js, React, TypeScript
+- Data and Machine Learning: Python, TensorFlow, Scikit-learn
+- Tools and Environment: Git, Linux, Figma
  
 ## Contact
 Email: zidannoufal0@gmail.com
